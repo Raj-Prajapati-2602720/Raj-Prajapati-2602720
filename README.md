@@ -2,7 +2,7 @@
 
   # ⚡ Raj Prajapati
 
-  ### 💻 B.Tech CSE Student | AI Vibr Coder
+  ### 💻 B.Tech CSE Student | AI Vibr Coder 
 
   <p align="center">
     <a href="https://github.com/sooynam">
